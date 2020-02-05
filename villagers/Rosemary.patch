@@ -1,0 +1,16 @@
+{
+    "file": "staxel/totems/RosemaryHome.totem",
+    "priority": 2,
+    "patch" : {
+		"region": {
+			"x": 10,  //10
+			"y": 6,  //3
+			"z": 10 //10
+		},
+		"centreOffset": {
+			"x": 10, //10
+			"y": 4, //2
+			"z": 1 //1
+		}
+	}
+}

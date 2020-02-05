@@ -1,0 +1,16 @@
+{
+    "file": "staxel/totems/workplace/TownHall.totem",
+    "priority": 2,
+    "patch" : {
+		"region": {
+			"x": 12, //12
+			"y": 10, //7
+			"z": 15 //8
+		},
+		"centreOffset": {
+			"x": 3, //3
+			"y": 6, //6
+			"z": -12 //-8
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+    "file": "staxel/totems/workplace/Patisserie.totem",
+    "priority": 2,
+    "patch" : {
+		"region": {
+			"x": 10,  //8
+			"y": 10, //6
+			"z": 10 //8
+		},
+		"centreOffset": {
+			"x": -10, //-8
+			"y": 5, //5
+			"z": 0 //0
+		},
+	}
+}

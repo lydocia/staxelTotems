@@ -1,0 +1,16 @@
+{
+    "file": "staxel/totems/workplace/Museum.totem",
+    "priority": 2,
+    "patch" : {
+		"region": {
+			"x": 12, //10
+			"y": 10, //5
+			"z": 15 //12
+		},
+		"centreOffset": {
+			"x": -7, //-7
+			"y": 3, //3
+			"z": -12 //-12
+		}
+	}
+}
